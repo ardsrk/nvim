@@ -10,6 +10,8 @@ set number        " show line numbers
 set nobackup
 set nowb
 set noswapfile
+set autowriteall
+set autoread
 
 " Use 2 spaces
 set softtabstop=2
